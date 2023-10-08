@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// Definición de la macro N
-
 int main() {
 const int var= 10;
 	
